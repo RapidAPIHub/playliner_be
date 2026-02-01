@@ -6,10 +6,10 @@ services:
     container_name: playliner-scraper
     restart: unless-stopped
     ports:
-      - "3000:3000"
+      - "3005:3005"
     environment:
       - MONGODB_URI=mongodb://mongo:27017/playliner
-      - PORT=3000
+      - PORT=3005
       - BEARER_TOKEN=${BEARER_TOKEN}
       - CRON_SCHEDULE=*/5 * * * *
       - BATCH_SIZE=10
