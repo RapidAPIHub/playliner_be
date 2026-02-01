@@ -1,0 +1,40 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: playliner-scraper
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - MONGODB_URI=mongodb://mongo:27017/playliner
+      - PORT=3000
+      - BEARER_TOKEN=${BEARER_TOKEN}
+      - CRON_SCHEDULE=*/5 * * * *
+      - BATCH_SIZE=10
+      - API_DELAY=1000
+    volumes:
+      - ./data.json:/app/data.json:ro
+    depends_on:
+      - mongo
+    networks:
+      - playliner-network
+
+  mongo:
+    image: mongo:7
+    container_name: playliner-mongo
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo-data:/data/db
+    networks:
+      - playliner-network
+
+volumes:
+  mongo-data:
+
+networks:
+  playliner-network:
+    driver: bridge

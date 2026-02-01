@@ -1,0 +1,787 @@
+{
+    "success": true,
+    "data": {
+        "newsGroupId": 24789,
+        "versions": [
+            {
+                "id": 839209,
+                "title": "88 Champion Tournament",
+                "titleTextId": 5362916,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 13,
+                "date": "2026-01-12",
+                "dateEnd": "2026-01-18",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    801,
+                    803,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 832156,
+                "title": "88 Champion tournament change",
+                "titleTextId": 5316840,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [
+                    {
+                        "id": 2068446,
+                        "postSectionId": 59,
+                        "text": "<p>Passive bonuses have been added to league rewards. They are valid for the entire week of the competition. The tournament is now focused not only on obtaining short-term rewards for a place, but also on providing long-term benefits through league bonuses.<\/p>\n<p>New types of bonuses:<\/p>\n<ul>\n  <li>increase in the [periodic bonus|832329]<\/li>\n  <li>additional benefit when purchasing [coins|717659], which applies to all special activities<\/li>\n<\/ul>\n<p>Similar bonuses are also found in other Casino games:<\/p>\n<ul>\n  <li>[Lotsa Slots|827968]<\/li>\n  <li>[Jackpot Party Casino|830557]<\/li>\n<\/ul>",
+                        "onlyInMainNews": true
+                    },
+                    {
+                        "id": 2068447,
+                        "galleryId": 661187,
+                        "postSectionId": 59,
+                        "gallery": {
+                            "id": 661187,
+                            "elements": [
+                                {
+                                    "id": 2899662,
+                                    "description": "Bonuses have been added to league rewards",
+                                    "image": {
+                                        "width": 1500,
+                                        "height": 675,
+                                        "type": "image",
+                                        "preview": "https:\/\/backend.playliner.com\/media\/images\/previews\/22125\/7e5db8b1df2bc7e97056f87320b1660b",
+                                        "src": "https:\/\/backend.playliner.com\/media\/images\/images\/22125\/7e5db8b1df2bc7e97056f87320b1660b"
+                                    },
+                                    "newsTags": []
+                                }
+                            ]
+                        },
+                        "onlyInMainNews": true
+                    }
+                ],
+                "description": "Bonuses have been added to league rewards.",
+                "date": "2026-01-06",
+                "dateEnd": "2026-01-11",
+                "tagIds": [
+                    76,
+                    683,
+                    688,
+                    691,
+                    729,
+                    801,
+                    803,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "version",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 830908,
+                "title": "88 Champion Tournament",
+                "titleTextId": 5308540,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "date": "2026-01-05",
+                "dateEnd": "2026-01-11",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 824346,
+                "title": "88 Champion Tournament",
+                "titleTextId": 5270048,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "date": "2025-12-29",
+                "dateEnd": "2026-01-04",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 816387,
+                "title": "88 Champion Tournament",
+                "titleTextId": 5219043,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 27,
+                "date": "2025-12-22",
+                "dateEnd": "2025-12-28",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 811547,
+                "title": "88 Champion Tournament",
+                "titleTextId": 5187542,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 23,
+                "date": "2025-12-15",
+                "dateEnd": "2025-12-21",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 802939,
+                "title": "88 Champion Tournament",
+                "titleTextId": 5130067,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 23,
+                "date": "2025-12-08",
+                "dateEnd": "2025-12-14",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 796112,
+                "title": "88 Champion Tournament",
+                "titleTextId": 5086957,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 26,
+                "date": "2025-12-01",
+                "dateEnd": "2025-12-07",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 788497,
+                "title": "88 Champion Tournament",
+                "titleTextId": 5035151,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 26,
+                "date": "2025-11-24",
+                "dateEnd": "2025-11-30",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 781440,
+                "title": "88 Champion Tournament",
+                "titleTextId": 4988525,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 13,
+                "date": "2025-11-17",
+                "dateEnd": "2025-11-23",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 774402,
+                "title": "88 Champion Tournament",
+                "titleTextId": 4946628,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 13,
+                "date": "2025-11-10",
+                "dateEnd": "2025-11-16",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 767356,
+                "title": "88 Champion Tournament",
+                "titleTextId": 4901110,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "date": "2025-11-03",
+                "dateEnd": "2025-11-09",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 759963,
+                "title": "88 Champion Tournament",
+                "titleTextId": 4854023,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 8,
+                "date": "2025-10-27",
+                "dateEnd": "2025-11-02",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 753322,
+                "title": "88 Champion Tournament",
+                "titleTextId": 4810314,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 8,
+                "date": "2025-10-20",
+                "dateEnd": "2025-10-26",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 751603,
+                "title": "88 Champion Tournament",
+                "titleTextId": 4800282,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 16,
+                "date": "2025-10-13",
+                "dateEnd": "2025-10-19",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 740342,
+                "title": "88 Champion Tournament",
+                "titleTextId": 4732436,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 16,
+                "date": "2025-10-06",
+                "dateEnd": "2025-10-12",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "repeat",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            },
+            {
+                "id": 729857,
+                "title": "88 Champion Tournament",
+                "titleTextId": 4666076,
+                "games": [
+                    {
+                        "id": 61,
+                        "title": "88 Fortunes: New Casino Slots",
+                        "googlePlayId": "com.ballytechnologies.f88",
+                        "genreId": null,
+                        "dGenre": null,
+                        "icon": {
+                            "id": 263674,
+                            "url": null,
+                            "path": "https:\/\/backend.playliner.com\/gameIcon\/1\/528\/7afdb68bb53351a2a86e1c3f9a47d16b"
+                        },
+                        "tagIds": [
+                            607
+                        ]
+                    }
+                ],
+                "blocks": [],
+                "description": "The player earns tokens for slot wins. Depending on the number of tokens collected, the player ranks on the tournament leaderboard and receives rewards.",
+                "revenueUptrend": 10,
+                "date": "2025-09-29",
+                "dateEnd": "2025-10-05",
+                "tagIds": [
+                    683,
+                    688,
+                    691,
+                    729,
+                    917,
+                    929,
+                    931
+                ],
+                "tags": [],
+                "newsGroupId": 24789,
+                "newsGroupType": "version",
+                "translated": true,
+                "tagMainId": 688,
+                "transferSectionIds": [],
+                "showRevenueBudge": true,
+                "released": true
+            }
+        ]
+    }
+}
